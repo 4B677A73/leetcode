@@ -3,9 +3,9 @@ class Solution
 {
 
 /**
- * @param Integer $num1
- * @param Integer $num2
- * @return Integer
+ * @param int $num1
+ * @param int $num2
+ * @return int
  */
     public function sum($num1, $num2)
     {
